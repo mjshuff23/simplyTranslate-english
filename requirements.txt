@@ -1,0 +1,3 @@
+requests
+lxml
+translatepy==2.3
